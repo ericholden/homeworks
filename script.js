@@ -37,6 +37,3 @@ console.log("Низкий уровень достатка");
 } else {
     console.log("Произошла ошибка");
 }
-
-
-alert(appData.budget / 30);
